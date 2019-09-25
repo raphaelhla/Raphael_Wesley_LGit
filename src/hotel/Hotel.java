@@ -26,5 +26,5 @@ public class Hotel {
 	
 	public String toString() {
 		return this.recepcao.toString();
-	}testando git
+	}
 }
