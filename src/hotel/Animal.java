@@ -1,4 +1,4 @@
-package src.hotel;
+package hotel;
 
 public class Animal {
 
@@ -16,24 +16,12 @@ public class Animal {
 		return nome;
 	}
 
-	public void setNome(String nome) {
-		this.nome = nome;
-	}
-
 	public String getTipo() {
 		return tipo;
 	}
 
-	public void setTipo(String tipo) {
-		this.tipo = tipo;
-	}
-
 	public int getIdade() {
 		return idade;
-	}
-
-	public void setIdade(int idade) {
-		this.idade = idade;
 	}
 
 	@Override
@@ -66,6 +54,8 @@ public class Animal {
 			return false;
 		return true;
 	}
+	
+	
 	
 	
 }
