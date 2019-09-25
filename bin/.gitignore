@@ -1,2 +1,4 @@
-/hotel/
-/testes/
+.classpath
+.settings
+/src/
+/testeSrc/

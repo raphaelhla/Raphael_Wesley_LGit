@@ -2,7 +2,7 @@
  * Gabriel Silva Vinha - Monitoria de LP2 - 2016.1
  */
 
-package testes;
+package testeSrc.testes;
 
 import static org.junit.Assert.*;
 
